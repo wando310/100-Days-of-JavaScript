@@ -1,3 +1,7 @@
-# 100-Days-of-JavaScript
+### 100-Days-of-JavaScript
 
-* 100 Days of Code 
+# This 100 days of code are for:
+
+> 📚 Learn a new Technology
+> 💹 Evolution
+> 🕑 Day Record
