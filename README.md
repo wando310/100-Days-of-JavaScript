@@ -1,4 +1,4 @@
-# 100-Days-of-JavaScript
+# 🚀 100 days of JavaScript 🚀
 
 ## This 100 days of code are for:
 
@@ -7,3 +7,8 @@
 > 💹 Evolution
 
 > 🕑 Day Record
+
+
+# Day 01 - Variables
+
+
