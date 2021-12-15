@@ -9,7 +9,7 @@
 > 🕑 Day Record
 
 
-# Day 01 - Variables
+
 
 
 
