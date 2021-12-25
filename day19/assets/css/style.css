@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkslategrey;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+input.age {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+input.age:hover {
+    border: none;
+}
+button {
+    background-color: rgb(86, 86, 247);
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 100px;
+    color: white;
+    border: none;
+}
