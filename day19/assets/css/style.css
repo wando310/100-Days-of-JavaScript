@@ -7,10 +7,11 @@
 
 body {
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    margin: 2rem;
     align-items: center;
     background-color: darkslategrey;
-    height: 100vh;
+
 }
 
 h1 {
