@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulação de Eventos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: cornflowerblue;
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h1 {
+            margin-bottom: 1rem;
+            color:  black;
+        }
+
+        input {
+            padding: 15px;
+            margin-left: 0.3rem;
+            border-radius: 3px;
+            border: none;
+        }
+
+        button {
+            cursor: pointer;
+            padding: 10px;
+            background-color: black;
+            border-radius: 3px;
+            border: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>Cadastro</h1>
+        <input type="text" id="age" placeholder="Idade"/>
+        <button>Enviar</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
