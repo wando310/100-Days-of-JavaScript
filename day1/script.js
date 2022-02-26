@@ -20,16 +20,7 @@ var person = {
 }
 
 
-console.log(name) // The prints the values of the variables
-
-console.log(fruits) /*The prints the values of the Array -> Console.log(nameofarray)*/
-
-console.log(fruits[3]) //Betwwen [] is the position of the elements*/
-
-console.log(person) // The prints the values of the Object
-
-console.log(person.alive) // Put the . to access an object's value
-
+console.log(name, fruits, fruits[3], person, person.alive) 
 // Assign a new value to a variable
     name = true
     console.log(name)
